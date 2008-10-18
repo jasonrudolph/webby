@@ -4,6 +4,7 @@ unless defined? WEBBY_SPEC_HELPER
 WEBBY_SPEC_HELPER = true
 
 require 'rubygems'
+require 'spec'
 require 'fileutils'
 require 'stringio'
 
