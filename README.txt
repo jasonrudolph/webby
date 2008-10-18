@@ -67,6 +67,10 @@ Webby is not limited to producing HTML. By no means! Do you ever get tired of re
 * rake
 * rspec
 
+== ADDITIONAL DEVELOPMENT REQUIREMENTS:
+
+* bones
+
 == LICENSE:
 
 MIT License
